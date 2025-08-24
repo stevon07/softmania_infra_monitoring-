@@ -1,4 +1,2 @@
 ## Testing Jenkins pipeline
-This is my First Project on SPlunk
-Welcome to SOC Admin
-This is SPLUNK ADVANCED 
+Welcome to SPLUNK
