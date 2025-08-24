@@ -1,2 +1,2 @@
 ## Testing Jenkins pipeline
-Welcome to SPLUNK enterprise
+Welcome to SPLUNK enterprise SOFTMANIA
