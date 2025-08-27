@@ -1,3 +1,1 @@
-## Testing Jenkins pipeline
-Welcome to SPLUNK enterprise SOFTMANIA
-THIS IS SOC 
+This Is my Splunk APP Automation
